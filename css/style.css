@@ -1,0 +1,33 @@
+body, h1, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+/* Styling for the student info */
+#student-info {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Footer styling */
+footer {
+    margin-top: 20px;
+}
+
